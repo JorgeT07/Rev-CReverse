@@ -1,0 +1,16 @@
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\Rev-CReverse.exe
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\Rev-CReverse.deps.json
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\Rev-CReverse.runtimeconfig.json
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\Rev-CReverse.runtimeconfig.dev.json
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\Rev-CReverse.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\ref\Rev-CReverse.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\bin\Debug\net5.0\Rev-CReverse.pdb
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.csprojAssemblyReference.cache
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.AssemblyInfoInputs.cache
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.AssemblyInfo.cs
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.csproj.CoreCompileInputs.cache
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\ref\Rev-CReverse.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.pdb
+C:\Users\jotin\Revature\assignments\PO\C#Solution\Rev-CReverse\obj\Debug\net5.0\Rev-CReverse.genruntimeconfig.cache
